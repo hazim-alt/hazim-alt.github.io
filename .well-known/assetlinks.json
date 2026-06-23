@@ -18,5 +18,15 @@
         "BF:0F:29:9E:3D:73:3A:3C:29:3E:D9:AB:09:E8:D8:10:FE:7E:4B:23:AB:93:A0:EB:7E:9C:78:0F:C6:EF:4A:8F"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.khatam.rawmat",
+      "sha256_cert_fingerprints": [
+        "BF:0F:29:9E:3D:73:3A:3C:29:3E:D9:AB:09:E8:D8:10:FE:7E:4B:23:AB:93:A0:EB:7E:9C:78:0F:C6:EF:4A:8F"
+      ]
+    }
   }
 ]
